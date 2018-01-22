@@ -1,0 +1,14 @@
+install
+
+express
+mongo
+react
+babel
+nodemon
+configure package.json
+create folder structure
+intall webpack
+configure webpack
+create babelrc to support react, es2015, stage-2
+
+
